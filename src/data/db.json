@@ -1,0 +1,265 @@
+{
+  "books": [
+    {
+      "name": "Watchmen",
+      "genre": "Thriller",
+      "author": "Alan Moore ",
+      "edition": "5th",
+      "language": "Sanskrit",
+      "price": 497,
+      "id": 1,
+      "rating": 9
+    },
+    {
+      "name": "Harry Potter",
+      "genre": "Fantasy",
+      "author": "J.K. Rowling",
+      "edition": "5th",
+      "price": 499,
+      "language": "Hindi",
+      "id": 2,
+      "rating": 8
+    },
+    {
+      "name": "Snow Crash",
+      "genre": "Thriller",
+      "author": "Lewis Carroll",
+      "edition": "1st",
+      "price": 299,
+      "language": "English",
+      "id": 3,
+      "rating": 7
+    },
+    {
+      "name": "Pinocchio",
+      "genre": "Fantasy",
+      "author": "Carlo Collodi",
+      "edition": "5th",
+      "price": 399,
+      "language": "English",
+      "id": 4,
+      "rating": 5
+    },
+    {
+      "name": "1984",
+      "genre": "Fantasy",
+      "author": "George Orwell",
+      "edition": "5th",
+      "language": "Hindi",
+      "price": 499,
+      "id": 6,
+      "rating": 4
+    },
+    {
+      "name": "Fahrenheit 451",
+      "genre": "Romance",
+      "author": "Ray Bradbury",
+      "edition": "8th",
+      "language": "English",
+      "price": 398,
+      "id": 7,
+      "rating": 3
+    },
+    {
+      "name": "Animal Farm",
+      "genre": "Fantasy",
+      "author": "George Orwell",
+      "edition": "2nd",
+      "language": "Odiya",
+      "price": 267,
+      "id": 8,
+      "rating": 4
+    },
+    {
+      "name": "The Road",
+      "genre": "Thriller",
+      "author": "Rahul Verma",
+      "edition": "5th",
+      "language": "Hindi",
+      "price": 467,
+      "id": 9,
+      "rating": 9
+    },
+    {
+      "name": "The Stand",
+      "genre": "Drama",
+      "author": "Stephen King",
+      "edition": "2nd",
+      "language": "English",
+      "price": 199,
+      "id": 10,
+      "rating": 9
+    },
+    {
+      "name": "Matched",
+      "genre": "Mystery",
+      "author": "Ally Condie",
+      "edition": "5th",
+      "language": "Telegu",
+      "price": 99,
+      "id": 11,
+      "rating": 4
+    },
+    {
+      "name": "Unwind",
+      "genre": "Romance",
+      "author": "Ernest Cline",
+      "edition": "2nd",
+      "language": "English",
+      "price": 398,
+      "id": 12,
+      "rating": 2
+    },
+    {
+      "name": "Watchmen",
+      "genre": "Thriller",
+      "author": "Alan Moore ",
+      "edition": "5th",
+      "language": "Sanskrit",
+      "price": 497,
+      "id": 13,
+      "rating": 9
+    },
+    {
+      "name": "Cinder",
+      "genre": "Romance",
+      "author": "Ayn Rand",
+      "edition": "2nd",
+      "language": "English",
+      "price": 499,
+      "id": 14,
+      "rating": 6
+    },
+    {
+      "name": "Anthem",
+      "genre": "Drama",
+      "author": "Ray Bradbury",
+      "edition": "5th",
+      "language": "Hindi",
+      "price": 299,
+      "id": 15,
+      "rating": 9
+    },
+    {
+      "name": "q",
+      "genre": "e",
+      "author": "e",
+      "edition": "e",
+      "language": "u",
+      "price": "6",
+      "id": 16
+    }
+  ],
+  "users": [
+    {
+      "firstname": "Akash kumar",
+      "lastname": "sahu",
+      "email": "akash@gmail.com",
+      "gender": "Male",
+      "DOB": "02/08/1999",
+      "contact": "9337662426",
+      "userID": "aakashkumar03",
+      "id": 1
+    },
+    {
+      "firstname": "Manthan",
+      "lastname": "sahu",
+      "email": "manthan@gmail.com",
+      "gender": "Male",
+      "DOB": "19/02/2000",
+      "contact": "9853625436",
+      "userID": "kumarmanthan99",
+      "id": 2
+    },
+    {
+      "firstname": "Falguni",
+      "lastname": "sahu",
+      "email": "ninima@gmail.com",
+      "gender": "female",
+      "DOB": "17/02/2004",
+      "contact": "7683564213",
+      "userID": "fal4678@",
+      "id": 3
+    },
+    {
+      "firstname": "Ganesh",
+      "lastname": "gurkhude",
+      "email": "ganesh@gmail.com",
+      "gender": "Male",
+      "DOB": "11/08/1997",
+      "contact": "7689342513",
+      "userID": "Gunny@gmail.com",
+      "id": 4
+    },
+    {
+      "firstname": "Sameera",
+      "lastname": "umarz",
+      "email": "sam234@gmail.com",
+      "gender": "Female",
+      "DOB": "06/12/1999",
+      "contact": "8762340953",
+      "userID": "samee@123",
+      "id": 5
+    },
+    {
+      "firstname": "Akash kumar",
+      "lastname": "sahu",
+      "email": "akash@gmail.com",
+      "gender": "Male",
+      "DOB": "02/08/1999",
+      "contact": "9337662426",
+      "userID": "aakashkumar03",
+      "id": 6
+    },
+    {
+      "firstname": "Manthan",
+      "lastname": "sahu",
+      "email": "manthan@gmail.com",
+      "gender": "Male",
+      "DOB": "19/02/2000",
+      "contact": "9853625436",
+      "userID": "kumarmanthan99",
+      "id": 7
+    },
+    {
+      "firstname": "Falguni",
+      "lastname": "sahu",
+      "email": "ninima@gmail.com",
+      "gender": "female",
+      "DOB": "17/02/2004",
+      "contact": "7683564213",
+      "userID": "fal4678@",
+      "id": 8
+    },
+    {
+      "firstname": "Ganesh",
+      "lastname": "gurkhude",
+      "email": "ganesh@gmail.com",
+      "gender": "Male",
+      "DOB": "11/08/1997",
+      "contact": "7689342513",
+      "userID": "Gunny@gmail.com",
+      "id": 9
+    },
+    {
+      "firstname": "Sameera",
+      "lastname": "umarz",
+      "email": "sam234@gmail.com",
+      "gender": "Female",
+      "DOB": "06/12/1999",
+      "contact": "8762340953",
+      "userID": "samee@123",
+      "id": 10
+    },
+    {
+      "firstname": "Uday",
+      "lastname": "kiran",
+      "email": "uday@gmail.com",
+      "gender": "Male",
+      "DOB": "29/07/2000",
+      "contact": "7482929193",
+      "userID": "udayca@rpr.gmail.com",
+      "id": 11
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+.layout label {
+    margin-left: 1cm;
+    color: rgb(10, 9, 9);
+    font-size: large;
+}
+
+.give{
+    display: flex;
+    background-image: url(../images/books.jpg);
+    background-size: cover;
+    height: 100%;
+    padding-left: 300px;
+    margin-left: 250px;
+}
+
+.layout input {
+    width: 15cm;
+    color: rgb(0, 0, 0);
+    padding-top: 10px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 0;
+    border-bottom: 1px solid rgb(11, 11, 11);
+    margin-left: 1cm;
+    padding-top: 20px;
+    font-size: medium;
+}
+
+.layout {
+    display: flex;
+    padding: 30px;
+    justify-content:center ;
+}
+
+.FormDetail {
+    background-color: rgba(248, 242, 208, 0.977);
+    width: 17cm;
+    padding-top: 10px;
+    border-radius: 5% ;
+}
+
+.FormDetail h2 {
+    color: rgb(8, 8, 8);
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.FormDetail button {
+    background-color: rgba(2, 3, 3, 0.838);
+    color: rgb(255, 255, 255);
+    width: 5cm;
+    height: 40px;
+    margin-left: 240px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    border-radius: 5%;
+    font-size:medium;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.FormDetail div {
+    margin: 20px 0px;
+}
+
+input:focus {
+    outline: none;
+}

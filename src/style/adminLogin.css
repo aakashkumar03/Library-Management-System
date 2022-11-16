@@ -1,0 +1,56 @@
+.adminContainer{
+    background-color: rgba(219, 236, 230, 0.913);
+    width: 650px;
+    height:500px;
+    margin-top: 150px;
+    border-radius: 10%;
+}
+.adminlogin{
+    display: flex;
+    background-image: url(../images/image2.jpg);
+    background-size: cover;
+    height: 100vh;
+    justify-content: center;
+}
+
+.adminContainer img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-left: 290px;
+}
+
+.adminContainer h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-style: italic;
+    margin-top: 30px;
+}
+
+.form button{
+    background-color: rgba(240, 248, 255, 0);
+    border: 0;
+    font-size:larger;
+    margin-left: 125px;
+    margin-top: 20px;
+}
+.form input{
+    background-color: rgba(240, 248, 255, 0);
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    color: black;
+    margin-bottom: 60px;
+    width: 550px;
+    font-size: medium;
+}
+.form label{
+    font-size: larger;
+    margin-top: 70px;
+}
+.form a{
+color: black;
+}
+input:focus {
+    outline: none;
+}

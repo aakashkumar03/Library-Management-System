@@ -1,0 +1,33 @@
+.main{
+    margin-left: 250px;
+    padding-bottom: 30px;
+} 
+.sheet{
+    background-color: black;
+    margin: 60px;
+    color: aliceblue;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    border: solid 10px rgb(26, 99, 209);
+    border-radius: 5px;
+} 
+.first{
+    width: 200px;
+}
+
+.gender{
+    width: 200px;
+}
+
+.contact{
+    width: 200px;
+}
+.sum h1{
+    margin-left: 300px;
+    margin-top: 0px;
+    padding-top: 20px;
+}
+.userlist{
+    background-color: rgba(248, 242, 208, 0.842);;
+}

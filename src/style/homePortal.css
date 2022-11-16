@@ -1,0 +1,102 @@
+.home{
+    display: flex;
+    background-color: rgb(250, 243, 204);
+}
+.library{
+    margin-left: 250px;
+    width: 100px;
+}
+.library h5{
+    color: rgb(85, 92, 92);
+    font-style: italic;
+}
+.library h1{
+    font-size: xx-large;
+}
+.library p{
+    font-size: x-large;
+    margin: 0px 20px;
+}
+.e-book{
+    display: flex;
+    background-image: url(../images/image6.jpg);
+    background-size: cover;
+    height: 35vh;
+    width: 1000px;
+    margin: 50px 150px;
+    margin-bottom: 420px;
+    box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+.digital{
+    display: flex;
+    background-image: url(../images/lappy.jpg);
+    background-size: cover;
+    height: 40vh;
+    width: 1000px;
+    margin: 50px 150px;
+    margin-bottom: 200px;
+    box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+.magazines{
+    display: flex;
+    background-image: url(../images/books.jpg);
+    background-size: cover;
+    height: 40vh;
+    width: 1000px;
+    margin: 50px 150px;
+    margin-bottom: 200px;
+    box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+.newspaper{
+    display: flex;
+    background-image: url(../images/image5.jpg);
+    background-size: cover;
+    height: 40vh;
+    width: 1000px;
+    margin: 50px 150px;
+    margin-bottom: 500px;
+    box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+.card1{
+    width: 600px;
+    height: 450px;
+    background-color:white;
+    margin: 150px 150px 0px 150px;
+    padding: 20px 50px;
+    box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+.card2{
+    width: 600px;
+    height: 270px;
+    background-color:white;
+    margin: 150px 150px 0px 150px;
+    padding: 20px 50px;
+    box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+.card3{
+    width: 600px;
+    height: 270px;
+    background-color:white;
+    margin: 150px 150px 0px 150px;
+    padding: 20px 50px;
+    box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+.card4{
+    width: 600px;
+    height:590px;
+    background-color:white;
+    margin: 150px 150px 0px 150px;
+    padding: 20px 50px;
+    box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.2);
+}
+.point{
+    width: 470px;
+    margin-left: 30px;
+}

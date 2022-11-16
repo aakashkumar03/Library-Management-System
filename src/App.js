@@ -1,23 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import "../src/style/App.css";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import AdminPortal from "./components/adminPortal";
+import AdminLogin from "./components/adminLogin";
+import UserLogin from "./components/userLogin";
+import HomePage from "./components/homePage";
+import UserPortal from "./components/userPortal";
 
 function App() {
+  let email="admin@gmail.com";
+  let user="user@gmail.com";
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<HomePage />} />
+          <Route path="/admin-login" element={<AdminLogin data={email}/>} />
+          <Route path="/user-login" element={<UserLogin data={user}/>} />
+          <Route path="/admin-portal/*" element={<AdminPortal data={email}/>}/>
+          <Route path="/user-portal/*" element={<UserPortal data={user} />}/>
+        </Routes>
+      </BrowserRouter>
     </div>
   );
 }
